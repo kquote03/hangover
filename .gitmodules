@@ -2,11 +2,10 @@
 	path = wine
 	url = https://github.com/AndreRH/wine.git
 	branch = arm64ec
-[submodule "fex"]
-	path = fex
-	url = https://github.com/AndreRH/FEX.git
-	branch = arm64ec
 [submodule "box64"]
 	path = box64
 	url = https://github.com/AndreRH/box64
 	branch = wow64
+[submodule "fex"]
+	path = fex
+	url = https://github.com/FEX-Emu/FEX
